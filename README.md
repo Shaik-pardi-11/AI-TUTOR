@@ -1,6 +1,5 @@
 # AI-TUTOR
 A Personalized AI that tracks the user behaviour over problems and tries to monitor the knowledge of the user.
-[Uploading Architecture.txt…]()
 Adaptive AI Tutor - Architecture
 
 System Architecture
