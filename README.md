@@ -1,4 +1,6 @@
 
+
+````md
 # 🤖 AI-TUTOR  
 ### An Adaptive, Personalized AI Learning Companion
 
@@ -43,6 +45,7 @@ Unlike traditional platforms, AI-TUTOR continuously **diagnoses, teaches, rememb
 
 ## 🏗 System Architecture
 
+```text
 ┌─────────────────────────────────────────────────────────────┐
 │                        Client (Browser)                      │
 │  ┌──────────────┐  ┌───────────────┐  ┌────────────────┐   │
@@ -82,6 +85,9 @@ Unlike traditional platforms, AI-TUTOR continuously **diagnoses, teaches, rememb
 │  │ - Knowledge gaps │  │ - Messages       │  │ - Config   │  │
 │  └──────────────────┘  └──────────────────┘  └────────────┘  │
 └──────────────────────────────────────────────────────────────┘
+````
+
+---
 
 ## 🧱 Component Overview
 
@@ -204,8 +210,6 @@ Unlike traditional platforms, AI-TUTOR continuously **diagnoses, teaches, rememb
 
 ## 🚀 Scalability & Future Enhancements
 
-For production readiness:
-
 1. Replace JSON storage with PostgreSQL / MongoDB
 2. Add authentication and user management
 3. Implement caching for faster access
@@ -236,13 +240,5 @@ This project is licensed under the **MIT License**.
 
 ```
 
----
-
-If you want next, I can:
-- 🚀 Add **Getting Started / Installation steps**
-- 🌐 Add **Live Demo & Deployment (Vercel)**
-- 🧠 Add **AI prompt design explanation**
-- 🧾 Write a **perfect project description for resumes**
-
-Just tell me — your repo already looks 🔥
+Just say the word 👌
 ```
