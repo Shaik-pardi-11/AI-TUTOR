@@ -1,6 +1,3 @@
-
-
-````md
 # 🤖 AI-TUTOR  
 ### An Adaptive, Personalized AI Learning Companion
 
@@ -45,7 +42,6 @@ Unlike traditional platforms, AI-TUTOR continuously **diagnoses, teaches, rememb
 
 ## 🏗 System Architecture
 
-```text
 ┌─────────────────────────────────────────────────────────────┐
 │                        Client (Browser)                      │
 │  ┌──────────────┐  ┌───────────────┐  ┌────────────────┐   │
@@ -85,7 +81,7 @@ Unlike traditional platforms, AI-TUTOR continuously **diagnoses, teaches, rememb
 │  │ - Knowledge gaps │  │ - Messages       │  │ - Config   │  │
 │  └──────────────────┘  └──────────────────┘  └────────────┘  │
 └──────────────────────────────────────────────────────────────┘
-````
+
 
 ---
 
@@ -169,7 +165,6 @@ Unlike traditional platforms, AI-TUTOR continuously **diagnoses, teaches, rememb
   ],
   "createdAt": "2024-01-02T00:00:00Z"
 }
-```
 
 ---
 
@@ -238,7 +233,4 @@ Improve learning outcomes with data-driven insights.
 
 This project is licensed under the **MIT License**.
 
-```
-
-Just say the word 👌
 ```
