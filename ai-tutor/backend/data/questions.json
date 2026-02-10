@@ -1,0 +1,20 @@
+{
+  "mathematics": {
+    "Arithmetic": [
+      {
+        "id": 1,
+        "question": "What is 7 + 5?",
+        "options": ["10", "11", "12", "13"],
+        "answer": "12",
+        "difficulty": "beginner"
+      },
+      {
+        "id": 2,
+        "question": "What is 15 - 9?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "6",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+}

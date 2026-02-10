@@ -1,0 +1,167 @@
+{
+  "topics": {
+    "mathematics": {
+      "beginner": [
+        "Arithmetic",
+        "Addition & Subtraction",
+        "Multiplication & Division",
+        "Fractions",
+        "Percentages",
+        "Pre-Algebra",
+        "Prime Numbers",
+        "Factors & Multiples",
+        "Simple Variables",
+        "Simple Equations",
+        "Basic Geometry",
+        "Shapes",
+        "Angles",
+        "Area & Perimeter",
+        "2D & 3D Measurement"
+      ],
+      "intermediate": [
+        "Algebra I",
+        "Algebra II",
+        "Linear Equations",
+        "Quadratic Equations",
+        "Inequalities",
+        "Functions",
+        "Graphing",
+        "Trigonometry",
+        "Sine, Cosine, Tangent",
+        "Pre-Calculus",
+        "Logarithms",
+        "Sequences & Series",
+        "Limits (Intro)",
+        "Statistics & Probability",
+        "Data Analysis",
+        "Mean, Median, Mode"
+      ],
+      "advanced": [
+        "Calculus I",
+        "Calculus II",
+        "Calculus III",
+        "Differentiation",
+        "Integration",
+        "Multivariable Calculus",
+        "Vectors",
+        "Linear Algebra",
+        "Matrices",
+        "Systems of Equations",
+        "Differential Equations",
+        "Abstract Algebra",
+        "Groups, Rings, Fields",
+        "Real & Complex Analysis",
+        "Discrete Mathematics",
+        "Logic & Proofs"
+      ]
+    },
+    "programming": {
+      "beginner": [
+        "HTML Basics",
+        "CSS Basics",
+        "JavaScript Basics",
+        "Python Basics",
+        "Java Basics",
+        "SQL Basics",
+        "Variables & Data Types",
+        "Control Flow",
+        "Loops",
+        "Functions"
+      ],
+      "intermediate": [
+        "HTML Forms & Semantic Tags",
+        "CSS Flexbox & Grid",
+        "JavaScript DOM & Events",
+        "Python Functions & Data Structures",
+        "Java Methods & Exceptions",
+        "SQL CRUD Operations",
+        "API Integration",
+        "JSON & Data Formats",
+        "Object-Oriented Basics",
+        "Error Handling"
+      ],
+      "advanced": [
+        "Web Accessibility",
+        "CSS Animations",
+        "JavaScript Async & Frameworks",
+        "Python OOP & Libraries",
+        "Java Multithreading & Spring Boot",
+        "SQL Joins & Indexing",
+        "Microservices Architecture",
+        "CI/CD Pipelines",
+        "Cloud Deployment",
+        "System Design"
+      ]
+    },
+    "ai-ml": {
+      "beginner": [
+        "History of AI",
+        "Turing Test",
+        "Narrow vs General AI",
+        "Supervised vs Unsupervised Learning",
+        "Basic Statistics",
+        "Data Types & Preparation",
+        "Exploratory Data Analysis",
+        "Feature Engineering Basics",
+        "Algorithm Overview"
+      ],
+      "intermediate": [
+        "Search Algorithms",
+        "Linear Regression",
+        "Logistic Regression",
+        "Classification",
+        "Clustering",
+        "Model Evaluation",
+        "Hyperparameter Tuning",
+        "Decision Trees",
+        "Ensemble Methods",
+        "Cross-Validation"
+      ],
+      "advanced": [
+        "NLP Fundamentals",
+        "Computer Vision",
+        "Robotics",
+        "Game Theory",
+        "Reinforcement Learning",
+        "Deep Learning Fundamentals",
+        "Neurons & Layers",
+        "Backpropagation",
+        "CNNs",
+        "RNNs & LSTMs",
+        "Transformers"
+      ]
+    },
+    "gen-ai": {
+      "beginner": [
+        "Foundation Models",
+        "Prompt Engineering",
+        "Ethical AI",
+        "ChatGPT Fundamentals",
+        "Image Generation Models",
+        "Text Generation",
+        "API Basics",
+        "Use Cases & Applications"
+      ],
+      "intermediate": [
+        "Transformer Architecture",
+        "RAG (Retrieval-Augmented Generation)",
+        "Vector Databases",
+        "LangChain Basics",
+        "API Integration Advanced",
+        "Fine-tuning Concepts",
+        "Embeddings",
+        "Semantic Search"
+      ],
+      "advanced": [
+        "AI Agents Design",
+        "Multimodal AI",
+        "Fine-tuning (LoRA, QLoRA)",
+        "Multi-Agent Systems",
+        "Advanced Prompt Chaining",
+        "Model Optimization",
+        "Deployment Strategies",
+        "Safety & Alignment"
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "domains": [
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "description": "Master mathematical concepts from foundational arithmetic to advanced calculus",
+      "icon": "📘",
+      "color": "from-blue-500 to-blue-600",
+      "totalTopics": 32
+    },
+    {
+      "id": "programming",
+      "name": "Programming",
+      "description": "Learn web development, backend systems, and software engineering",
+      "icon": "💻",
+      "color": "from-green-500 to-green-600",
+      "totalTopics": 28
+    },
+    {
+      "id": "ai-ml",
+      "name": "AI & ML",
+      "description": "Understand algorithms, neural networks, and machine learning models",
+      "icon": "🤖",
+      "color": "from-purple-500 to-purple-600",
+      "totalTopics": 24
+    },
+    {
+      "id": "gen-ai",
+      "name": "Generative AI",
+      "description": "Explore transformers, prompt engineering, and multimodal AI systems",
+      "icon": "🌟",
+      "color": "from-yellow-500 to-yellow-600",
+      "totalTopics": 20
+    }
+  ]
+}
