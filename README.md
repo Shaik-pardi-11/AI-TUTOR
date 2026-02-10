@@ -1,7 +1,4 @@
 
-
----
-
 # 🤖 Adaptive AI Tutor
 
 ### An AI-Powered Personalized Learning System
@@ -247,4 +244,3 @@ Improve learning outcomes through data-driven insights.
 
 This project is licensed under the **MIT License**.
 
-```
