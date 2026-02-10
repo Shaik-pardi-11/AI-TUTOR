@@ -2,7 +2,6 @@
 
 ---
 
-````md
 # 🤖 Adaptive AI Tutor
 
 ### An AI-Powered Personalized Learning System
@@ -39,7 +38,6 @@ This system continuously:
    - Real-time feedback and guidance
    - Encouraging and supportive interaction style
 
----
 
 ## 🏗 System Architecture Overview
 
@@ -250,7 +248,4 @@ Improve learning outcomes through data-driven insights.
 This project is licensed under the **MIT License**.
 
 ```
----
-
-Just tell me — this README is already **portfolio-level** 🔥
 ```
