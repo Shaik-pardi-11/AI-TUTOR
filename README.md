@@ -1,5 +1,47 @@
 # AI-TUTOR
 A Personalized AI that tracks the user behaviour over problems and tries to monitor the knowledge of the user.
+An AI-powered adaptive tutoring system that:
+1. Diagnoses student knowledge gaps through intelligent questioning
+2. Adapts teaching complexity and pacing based on student responses
+3. Remembers student progress across sessions
+4. Personalizes instruction to learning style and pace
+
+Key Features
+
+1. Intelligent Diagnosis
+- AI asks targeted questions to quickly identify knowledge gaps
+- Builds a knowledge model of the student
+- Identifies misconceptions and weak areas
+
+2. Adaptive Teaching
+- Adjusts content complexity based on student understanding
+- Provides different explanations if initial one doesn't work
+- Offers examples at the right level of abstraction
+
+3. Learning Memory
+- Persists student profiles across sessions
+- Tracks progress on different topics
+- Identifies patterns in student learning
+
+4. Interactive Interface
+- Chat-based conversational learning
+- Real-time feedback and guidance
+- Encouraging and supportive tone
+
+Technical Architecture
+
+- Frontend: Next.js with React for interactive UI
+- Backend: Next.js API routes for business logic
+- AI: OpenAI API for intelligent tutoring
+- Storage: JSON-based persistence for student profiles
+
+Value Proposition
+
+- For Students: Get personalized learning that adapts to your pace and style
+- For Educators: Scale personalized instruction with AI assistance
+- For Institutions: Improve learning outcomes with data-driven insights
+
+
 Adaptive AI Tutor - Architecture
 
 System Architecture
